@@ -122,36 +122,4 @@ int main(void)
 
   
 
-    /*do
-    {
-        //printf("Digite seu nome: \n");
-          //scanf("%d", &nome);
-        //printf("Digite seu curso: \n");
-          //scanf("%d", &curso);
-        printf("\n\t1 - SOMA \n\t2 - SUBTRAÇÃO \n\t3 - MULTIPLICAÇÃO \n\t4 - DIVISÃO \n\t5 - POTENCIACAO \n\t6 - RAIZ QUADRADA \n");
-            scanf("%i", &op);
-
-        printf("\nDigite o primeiro valor: ");
-     scanf("%f", &x);
-          printf("\nDigite o segundo valor: "); 
-     scanf("%f", &y);
-     switch (op){
-        case 1:
-            resultado = x + y;
-            break;
-        case 2:
-            resultado = x - y;
-            break;
-        case 3:           
-            resultado = x * y;
-            break;
-        case 4:
-            resultado = x / y;
-            break;
-       case 5 : resultado = pow(x, y);
-            break;
-        case 6:
-            resultado = sqrt(x);
-            break;
-     }
-    } while (op != 7);*/
+    
